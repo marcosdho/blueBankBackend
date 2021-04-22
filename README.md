@@ -8,3 +8,4 @@
 <h3>Tecnologías</h3>
 <p>-PHP</p>
 <p>-LARAVEL</p>
+<p>-API REST</p>
